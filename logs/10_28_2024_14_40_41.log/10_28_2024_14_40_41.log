@@ -1,0 +1,4 @@
+[ 2024-10-28 14:40:44,376 ] 7 root - INFO - The execution has started
+[ 2024-10-28 14:40:44,377 ] 18 root - INFO - Reading  SQL data
+[ 2024-10-28 14:40:44,529 ] 24 root - INFO - Reading from mysql database
+[ 2024-10-28 14:40:44,549 ] 12 root - INFO - Custom Exception
